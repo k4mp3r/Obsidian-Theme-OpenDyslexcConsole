@@ -1,15 +1,17 @@
 /* ---------------------------------------------------------------------------
-WYConsole Theme
-Version 1.1
-Created by @Satchelmouth 
-
-Buy me a coffee:
-https://www.buymeacoffee.com/Satchelmouth
+OpenDyslexcConsole Theme
+Version 1.0
+Created by @k4mp3r 
 
 Readme:
-A theme for obsidian based on Computer Consoles in popular 80s Sci-fi films
+A theme for obsidian based on Computer Consoles in the Fallout video game franchise
+using the OpenDyslexc font and colors from the default and power armor interfaces.
+
+Requirements:
+- Installation of the [OpenDyslexic Font](https://opendyslexic.org/download) family.
+- Specifically the OpenDyslexicMono Font
 -----------------------------------------------------------------------------
-Copyright (c) 2020-2022 Thomas Chase (@Satchelmouth)
+Copyright (c) 2024 Brian Kampling (@k4mp3r)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -30,14 +32,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 -----------------------------------------------------------------------------
 
-/* SUPPORTED FEATURES
-* Dark and Light Mode
-* All panels, menus, and buttons have been looked at
-* Most popular community plugins supported
+**SUPPORTED FEATURES**
+- Dark and Light Mode
+- All panels, menus, and buttons have been looked at
+- Most popular community plugins supported
 
-/* SUPPORTED PLUGINS
-* Advanced Tables
-* Kanban
-* Calendar
-* File Tree Alternative Plugin
-*/
+**SUPPORTED PLUGINS**
+- Advanced Tables
+- Kanban
+- Calendar
+- File Tree Alternative Plugin

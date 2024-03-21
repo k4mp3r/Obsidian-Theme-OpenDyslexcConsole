@@ -1,4 +1,3 @@
-/* ---------------------------------------------------------------------------
 OpenDyslexcConsole Theme
 Version 1.0
 Created by @k4mp3r 
